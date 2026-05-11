@@ -61,3 +61,9 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos de:
 # 🚀 Sobre o Projeto
 
 Este projeto foi desenvolvido com foco em prática de análise de dados e construção de dashboards interativos, aplicando conceitos de Business Intelligence para transformar dados em informações estratégicas.
+
+---
+
+# 📥 Download do Arquivo PBIX
+
+[Download do projeto Power BI](https://drive.google.com/file/d/1UMukqRj_0RlaJ06RLTpTB4ZfGONxePHm/view?usp=drive_link)
